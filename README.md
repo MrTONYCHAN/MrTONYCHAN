@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrTONYCHAN
+- 👋 Hi, I’m CHANDAN KUMAR @MrTONYCHAN
 - 👀 I’m interested in Machine Learning, Deep Learning, image processing and Artificial intelligence 
 - 🌱 I’m currently learning  - Algorithm and Math with Clean Coding and Scrum
 - 💞️ I’m looking to collaborate on  Artificial intelligence Projects
