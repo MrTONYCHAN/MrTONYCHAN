@@ -42,7 +42,7 @@ Contact number:
 
 Updated info at  : - 
 
-          https://mrtonychan.github.io/CHANDAN-KUMAR-RESUME/
+          https://mrtonychan.github.io/CHANDAN-KUMAR-PORTFOLIO/
           
           
 LinkedIn - id : - 
