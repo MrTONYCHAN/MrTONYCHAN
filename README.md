@@ -43,7 +43,6 @@ You can click the Preview link to take a look at your changes.
  
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=mrtonychan&theme=theme_name)
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrtonychan&theme=xcode)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zvgtov2gptwxvy35osc56w2dza&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
