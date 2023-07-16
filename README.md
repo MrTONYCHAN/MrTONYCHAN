@@ -1,4 +1,5 @@
- 👋 Hi, I’m CHANDAN KUMAR @MrTONYCHAN
+<h1 align="center">Hi 👋, I'm Chandan @MrTONYCHAN</h1>
+<h3 align="center">A passionate full-stack developer from India</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
