@@ -32,6 +32,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="TONYCHAN's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mrtonychan&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
 
 
