@@ -41,54 +41,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 
-Personal id:
 
-  : tonykeplerwolfganggag1@gmail.com
-
-  : mrtonychan98@gmail.com
-
-Offical id:
-
-:  chandan.20730@ggnindia.dronacharya.info
-
-Contact number:
-
-+91-7082092562
-
-Updated info at  : - 
-
-          https://mrtonychan.github.io/CHANDAN-KUMAR-PORTFOLIO/
-          
-          
-LinkedIn - id : - 
-
-         https://www.linkedin.com/in/chandan-kumar-a83987166/
-
-Kaggle -  
-         
-         CHANDAN KUMAR - link : https://www.kaggle.com/chandantonychan     
-          
-         
-Google Developers - 
-google.dev-Beta
-  
-          CHANDAN KUMAR - link : https://google.dev/u/107098989741051935567?utm_source=developers.google.com
-
-Github - 
-
-          TONYCHANCHANDAN - link : https://github.com/CHANDANTONYCHAN
-          
-          MrTONYCHAN - link : https://github.com/MrTONYCHAN
-          
-
-GitLab -  
- 
-          https://gitlab.com/MrTONYCHAN
-          
-          
-
-          
-          
 
 
 Software Engineer
