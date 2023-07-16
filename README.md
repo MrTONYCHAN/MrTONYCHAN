@@ -32,10 +32,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="TONYCHAN's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<tr>
- <td> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mrtonychan&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /></td>
- <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtonychan&layout=compact&theme=cobalt&hide_border=true" /></td>
-</tr>
 
 
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mrtonychan&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
