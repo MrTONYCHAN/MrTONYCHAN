@@ -1,17 +1,4 @@
-- 👋 Hi, I’m CHANDAN KUMAR @MrTONYCHAN
-- 👀 I’m interested in Machine Learning, Deep Learning, image processing and Artificial intelligence 
-- 🌱 I’m currently learning  - Algorithm and Math with Clean Coding and Scrum
-- 💞️ I’m looking to collaborate on  Artificial intelligence Projects
-- 📫 How to reach me ... Down Below
-
-<!---
-MrTONYCHAN/MrTONYCHAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MrTONYCHAN.visitor-badge)
-[![GitHub followers](https://img.shields.io/github/followers/MrTONYCHAN.svg?style=social&label=Follow)](https://github.com/MrTONYCHAN?tab=followers)
-
+ 👋 Hi, I’m CHANDAN KUMAR @MrTONYCHAN
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -27,6 +14,15 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 </p>
+<!---
+MrTONYCHAN/MrTONYCHAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MrTONYCHAN.visitor-badge)
+[![GitHub followers](https://img.shields.io/github/followers/MrTONYCHAN.svg?style=social&label=Follow)](https://github.com/MrTONYCHAN?tab=followers)
+
+
 ![MrTONYCHAN GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrTONYCHAN&count_private=true&show_icons=true&theme=algolia )
 
 <a href="https://www.linkedin.com/in/chandan-kumar-a83987166//">
