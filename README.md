@@ -23,7 +23,8 @@ You can click the Preview link to take a look at your changes.
 [![GitHub followers](https://img.shields.io/github/followers/MrTONYCHAN.svg?style=social&label=Follow)](https://github.com/MrTONYCHAN?tab=followers)
 
 
-![MrTONYCHAN GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrTONYCHAN&count_private=true&show_icons=true&theme=algolia )
+![MrTONYCHAN GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrTONYCHAN&count_private=true&show_icons=true&theme=algolia )<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtonychan&layout=compact&theme=cobalt&hide_border=true" />
+
 
 <a href="https://www.linkedin.com/in/chandan-kumar-a83987166//">
   <img align="center" alt="Chandan kumar's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -33,8 +34,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mrtonychan&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtonychan&layout=compact&theme=cobalt&hide_border=true" />
-
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mrtonychan&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=mrtonychan&theme=theme_name)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zvgtov2gptwxvy35osc56w2dza&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
