@@ -28,9 +28,11 @@ You can click the Preview link to take a look at your changes.
 [![GitHub followers](https://img.shields.io/github/followers/MrTONYCHAN.svg?style=social&label=Follow)](https://github.com/MrTONYCHAN?tab=followers)
 
 
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mrtonychan&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtonychan&layout=compact&theme=cobalt&hide_border=true" />
+
 ![MrTONYCHAN GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrTONYCHAN&count_private=true&show_icons=true&theme=algolia )
 
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mrtonychan&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtonychan&layout=compact&theme=cobalt&hide_border=true" />
+ 
 
 <a href="https://www.linkedin.com/in/chandan-kumar-a83987166//">
   <img align="center" alt="Chandan kumar's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
