@@ -42,19 +42,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-Software Engineer
---------------------------
-PROFESSIONAL SUMMARY
--------------------------------------------------------------------------------------------------------------------------------------
-•        Hii, I am Chandan Kumar, currently working with Cargo Flash Infotech as a Machine Learning Engineer. I am a Computer Science and Information Technology Engineering Student of 2021 Batch. I specialize in Deep Learning, Data analytics, Computer Vision and Machine Learning. I have been working with Python for the past 2 years and also have relevant experience in C++, Web development, GitHub and SQL.
-
-•        I have developed a strong acumen for problem solving, and I enjoy an occasional challenge. I often work on end-to-end data science projects.
-
-
-
-•        Including self-studying and doing many self projects that has been applied to many real-world applications..
-
-•	Self-motivated and energetic. Quick learner of new tools and technologies with very good understanding SDLC life cycle
-•	Good written, communication, and interpersonal skills, proven team player with an analytical mind bent to problem solving and delivering solutions
-
 
