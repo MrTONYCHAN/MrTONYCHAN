@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandan @MrTONYCHAN</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<img align="right" alt="coding" width="300" src = "https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" alt="coding" width="400" src = "https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
