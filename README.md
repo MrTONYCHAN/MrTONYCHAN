@@ -63,11 +63,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=true" alt="Dev Quote" />
-</div>
-
 <br/>
 
 <br/>
