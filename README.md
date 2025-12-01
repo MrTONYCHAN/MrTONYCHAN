@@ -70,18 +70,6 @@
 
 <br/>
 
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrTONYCHAN&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTONYCHAN&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=MrTONYCHAN&theme=radical&hide_border=true" alt="streak graph" />
-</div>
-
 <br/>
 
 <h3 align="center">🏆 Achievements</h3>
