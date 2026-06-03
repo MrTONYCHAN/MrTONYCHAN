@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-██████╗██╗  ██╗ █████╗ ███╗   ██╗██████╗  █████╗ ███╗   ██╗
+ ██████╗██╗  ██╗ █████╗ ███╗   ██╗██████╗  █████╗ ███╗   ██╗
 ██╔════╝██║  ██║██╔══██╗████╗  ██║██╔══██╗██╔══██╗████╗  ██║
 ██║     ███████║███████║██╔██╗ ██║██║  ██║███████║██╔██╗ ██║
 ██║     ██╔══██║██╔══██║██║╚██╗██║██║  ██║██╔══██║██║╚██╗██║
@@ -9,10 +9,20 @@
  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F52C67&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+.NET+%7C+Python+%7C+TypeScript;Building+things+that+actually+work+%E2%9C%85;Currently+mastering+AWS+%26+Docker+%E2%98%81%EF%B8%8F;Coffee+%E2%98%95+%2B+Code+%3D+Magic+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=F52C67&center=true&vCenter=true&width=600&lines=Full+Stack+%2B+AI-Driven+Developer+%F0%9F%A4%96;Scalable+Systems+%7C+Agentic+AI+%7C+LLMs;React+%7C+Next.js+%7C+Astro+%7C+Flutter;Swift+iOS+%7C+Android+Native;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;Coffee+%E2%98%95+%2B+Code+%3D+Magic+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
 
 <a href="https://github.com/MrTONYCHAN">
   <img src="https://komarev.com/ghpvc/?username=MrTONYCHAN&style=for-the-badge&color=F52C67&label=PROFILE+VIEWS" />
+</a>
+&nbsp;
+<a href="https://github.com/MrTONYCHAN?tab=followers">
+  <img src="https://img.shields.io/github/followers/MrTONYCHAN?style=for-the-badge&color=blueviolet&label=FOLLOWERS" />
+</a>
+&nbsp;
+<a href="https://github.com/MrTONYCHAN?tab=stars">
+  <img src="https://img.shields.io/github/stars/MrTONYCHAN?style=for-the-badge&color=yellow&label=STARS" />
 </a>
 
 </div>
@@ -24,30 +34,38 @@
 ```yaml
 name        : Chandan Kumar
 alias       : MrTONYCHAN
-role        : Full Stack Developer
+role        : Full Stack Developer  ·  AI-Driven Engineer
 location    : India 🇮🇳
-status      : Building cool stuff 🚀
+focus       : Scalable Systems · Agentic AI · Cross-Platform Apps
+status      : Building the future, one commit at a time 🚀
+open_to     : Collaborations on React · .NET · AI/LLM integrations
 ```
+
+---
 
 <table>
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
 ### 🖥️ Current Status
 
 ```bash
 $ cat current.log
 
-[✓] Working on   → Full Stack Applications
-[~] Learning     → AWS Cloud Architecture & Docker
-[⚡] Open to      → React & .NET collaborations
-[?] Ask me about → Python, JS, C#
-[☕] Fuel         → Coffee (infinite supply)
-[🐛] Bug status   → They gave up, I didn't
+[✓] Role      → Full Stack + AI-Driven Developer
+[✓] Building  → Scalable systems & clean architecture
+[✓] Web       → React · Next.js · Astro
+[✓] Mobile    → Flutter · Android Native · Swift iOS
+[✓] AI/LLM   → Agentic AI · LLM integrations
+[~] Learning  → AWS Cloud Arch · Docker · DevOps
+[⚡] Open to   → AI product collabs & open source
+[?] Ask me    → Python · JS/TS · C# · System Design
+[☕] Fuel      → Coffee (unlimited ♾️)
+[🐛] Bugs     → They gave up. I didn't.
 ```
 
 </td>
-<td width="45%">
+<td width="45%" valign="center">
 
 <img src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="coding gif" />
 
@@ -68,17 +86,45 @@ $ cat current.log
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 </div>
 
-### 🎨 Frontend
+### 🌐 Web Frontend
 
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</div>
+
+### 📱 Mobile
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android_Native-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS_Swift-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+</div>
+
+### 🤖 AI / LLM Stack
+
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-00A67E?style=for-the-badge&logo=pinecone&logoColor=white)
 
 </div>
 
@@ -90,6 +136,8 @@ $ cat current.log
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
@@ -101,6 +149,7 @@ $ cat current.log
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -110,14 +159,14 @@ $ cat current.log
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MrTONYCHAN&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrTONYCHAN&theme=radical&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrTONYCHAN&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTONYCHAN&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTONYCHAN&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=MrTONYCHAN&theme=radical&hide_border=true" />
 
 </div>
 
@@ -127,7 +176,7 @@ $ cat current.log
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MrTONYCHAN&theme=radical&no-frame=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=MrTONYCHAN&theme=radical&no-frame=true&margin-w=10&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
 </div>
 
@@ -137,7 +186,7 @@ $ cat current.log
 
 <div align="center">
 
-[![Chandan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrTONYCHAN&theme=redical&hide_border=true&area=true)](https://github.com/MrTONYCHAN)
+[![Chandan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrTONYCHAN&bg_color=141321&color=F52C67&line=F52C67&point=FFFFFF&area_color=F52C671A&area=true&hide_border=true&custom_title=Chandan%27s%20Contribution%20Graph)](https://github.com/MrTONYCHAN)
 
 </div>
 
@@ -158,12 +207,14 @@ $ cat current.log
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════╗
-║   "First, solve the problem.                     ║
-║    Then, write the code."  — John Johnson        ║
-║                                                  ║
-║    > Let's build something amazing together_     ║
-╚══════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  "Any sufficiently advanced technology is indistinguishable  ║
+║   from magic."  — Arthur C. Clarke                          ║
+║                                                              ║
+║   > I build that magic. Let's ship something great._        ║
+╚══════════════════════════════════════════════════════════════╝
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F52C67&height=80&section=footer&fontSize=20" />
 
 </div>
