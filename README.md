@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chandan%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%C2%B7%20AI-Driven%20Developer&descAlignY=58&descSize=18" width="100%" alt="header banner"/>
+
 ```
  ██████╗██╗  ██╗ █████╗ ███╗   ██╗██████╗  █████╗ ███╗   ██╗
 ██╔════╝██║  ██║██╔══██╗████╗  ██║██╔══██╗██╔══██╗████╗  ██║
@@ -172,11 +174,88 @@ $ cat current.log
 
 ---
 
-## `$ git log --oneline --trophies`
+## `$ git log --oneline --achievements`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MrTONYCHAN&theme=radical&no-frame=true&margin-w=10&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F52C67&center=true&vCenter=true&width=500&lines=Loading+achievements...;%5B%E2%9C%93%5D+Trophy+vault+unlocked;%5B%E2%9C%93%5D+Hall+of+fame+ready" alt="achievements typing" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=MrTONYCHAN&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultipleLang,Reviews" alt="GitHub Trophies" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F52C67"/>
+      <stop offset="50%" stop-color="#A020F0"/>
+      <stop offset="100%" stop-color="#F52C67"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="2" y="2" width="796" height="116" rx="12" fill="none" stroke="url(#grad)" stroke-width="2" filter="url(#glow)">
+    <animate attributeName="stroke-dasharray" values="0,1900;1900,0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="400" y="50" text-anchor="middle" fill="#F52C67" font-family="Fira Code, monospace" font-weight="700" font-size="22" filter="url(#glow)">
+    ◆ HALL OF FAME ◆
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+  </text>
+  <text x="400" y="85" text-anchor="middle" fill="#FFFFFF" font-family="Fira Code, monospace" font-size="14" opacity="0.85">
+    Full Stack · AI-Driven · Shipping at the speed of thought
+  </text>
+</svg>
+
+</div>
+
+<br/>
+
+### 🏆 Achievement Unlocked
+
+<div align="center">
+
+![Code Wizard](https://img.shields.io/badge/🧙_Code_Wizard-F52C67?style=for-the-badge&labelColor=141321)
+![AI Architect](https://img.shields.io/badge/🤖_AI_Architect-A020F0?style=for-the-badge&labelColor=141321)
+![Full Stack](https://img.shields.io/badge/⚡_Full_Stack-FFD700?style=for-the-badge&labelColor=141321)
+![Cross Platform](https://img.shields.io/badge/📱_Cross_Platform-00D9FF?style=for-the-badge&labelColor=141321)
+![Open Source](https://img.shields.io/badge/🌍_Open_Source-3DDC84?style=for-the-badge&labelColor=141321)
+![Night Owl](https://img.shields.io/badge/🦉_Night_Owl-512BD4?style=for-the-badge&labelColor=141321)
+
+</div>
+
+### ⚡ Skill Mastery
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,cs,cpp,dart,swift,react,nextjs,astro,tailwind,flutter,nodejs,dotnet,aws,docker,postgres,mongodb,git,figma&perline=10&theme=dark" alt="skill icons" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrTONYCHAN&theme=radical" width="98%" alt="profile summary"/>
 
 </div>
 
@@ -187,6 +266,16 @@ $ cat current.log
 <div align="center">
 
 [![Chandan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrTONYCHAN&bg_color=141321&color=F52C67&line=F52C67&point=FFFFFF&area_color=F52C671A&area=true&hide_border=true&custom_title=Chandan%27s%20Contribution%20Graph)](https://github.com/MrTONYCHAN)
+
+</div>
+
+---
+
+## `$ ./snake-game.sh`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MrTONYCHAN/MrTONYCHAN/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
@@ -215,6 +304,6 @@ $ cat current.log
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F52C67&height=80&section=footer&fontSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" alt="footer banner"/>
 
 </div>
