@@ -8,7 +8,6 @@
 <tr>
 <td width="48%" valign="top" align="center">
 
-<h3><code>chandan@github ~ $ ./portrait.sh</code></h3>
 
 <img src="./avi-ascii.svg" width="100%" alt="Chandan Kumar — ASCII portrait" />
 
