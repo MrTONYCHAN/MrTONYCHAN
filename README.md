@@ -1,15 +1,8 @@
 <div align="center">
 
 <!-- hero: monochrome ASCII portrait (types in). regenerate:
-     python scripts/prep_photo.py me.jpg &&
+     python scripts/prep_photo.py me.jpeg &&
      ASCII_HOST=chandan@github ASCII_NAME="Chandan Kumar" python scripts/make_ascii_svg.py -->
-
-<h3><code>chandan@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Chandan's GitHub contribution graph" />
-
-<br>
-<br>
 
 <h3><code>chandan@github ~ $ ./portrait.sh</code></h3>
 
