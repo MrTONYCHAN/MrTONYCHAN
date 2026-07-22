@@ -4,16 +4,18 @@
      python scripts/prep_photo.py me.jpeg &&
      ASCII_HOST=chandan@github ASCII_NAME="Chandan Kumar" python scripts/make_ascii_svg.py -->
 
+<table>
+<tr>
+<td width="48%" valign="top" align="center">
+
 <h3><code>chandan@github ~ $ ./portrait.sh</code></h3>
 
-<img src="./avi-ascii.svg" width="420" alt="Chandan Kumar — ASCII portrait" />
+<img src="./avi-ascii.svg" width="100%" alt="Chandan Kumar — ASCII portrait" />
 
-<br>
-<br>
+</td>
+<td width="52%" valign="top" align="left">
 
-</div>
-
-## `$ whoami`
+### `$ whoami`
 
 ```yaml
 name        : Chandan Kumar
@@ -25,6 +27,13 @@ status      : Building the future, one commit at a time 🚀
 open_to     : Collaborations on React · .NET · AI/LLM integrations
 ```
 
+</td>
+</tr>
+</table>
+
+<br>
+
+</div>
 ---
 
 <table>
