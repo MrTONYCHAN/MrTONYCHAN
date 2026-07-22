@@ -34,7 +34,6 @@ open_to     : Collaborations on React · .NET · AI/LLM integrations
 <br>
 
 </div>
----
 
 <table>
 <tr>
