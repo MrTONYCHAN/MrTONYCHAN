@@ -152,7 +152,7 @@ $ cat current.log
 <div align="center">
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrTONYCHAN&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=1800" /> -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTONYCHAN&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTONYCHAN&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" /> -->
 
 </div>
 
