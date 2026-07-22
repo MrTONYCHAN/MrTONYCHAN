@@ -168,7 +168,7 @@ $ cat current.log
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F52C67&center=true&vCenter=true&width=500&lines=Loading+achievements...;%5B%E2%9C%93%5D+Trophy+vault+unlocked;%5B%E2%9C%93%5D+Hall+of+fame+ready" alt="achievements typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F52C67&center=true&vCenter=true&width=520&lines=Loading+achievements...;Trophy+vault+unlocked;Hall+of+fame+ready" alt="achievements typing" />
 
 </div>
 
@@ -177,7 +177,7 @@ $ cat current.log
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrTONYCHAN&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultipleLang,Reviews" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=MrTONYCHAN&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultipleLang,Reviews" alt="GitHub Trophies" />
 </a>
 
 </div>
