@@ -1,17 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chandan%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%C2%B7%20AI-Driven%20Developer&descAlignY=58&descSize=18" width="100%" alt="header banner"/>
 
-```
- ██████╗██╗  ██╗ █████╗ ███╗   ██╗██████╗  █████╗ ███╗   ██╗
-██╔════╝██║  ██║██╔══██╗████╗  ██║██╔══██╗██╔══██╗████╗  ██║
-██║     ███████║███████║██╔██╗ ██║██║  ██║███████║██╔██╗ ██║
-██║     ██╔══██║██╔══██║██║╚██╗██║██║  ██║██╔══██║██║╚██╗██║
-╚██████╗██║  ██║██║  ██║██║ ╚████║██████╔╝██║  ██║██║ ╚████║
- ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=F52C67&center=true&vCenter=true&width=600&lines=Full+Stack+%2B+AI-Driven+Developer+%F0%9F%A4%96;Scalable+Systems+%7C+Agentic+AI+%7C+LLMs;React+%7C+Next.js+%7C+Astro+%7C+Flutter;Swift+iOS+%7C+Android+Native;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;Coffee+%E2%98%95+%2B+Code+%3D+Magic+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
