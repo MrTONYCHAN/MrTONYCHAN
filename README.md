@@ -23,7 +23,7 @@ role        : Full Stack Developer  ·  AI-Driven Engineer
 location    : India 🇮🇳
 focus       : Scalable Systems · Agentic AI · Cross-Platform Apps
 status      : Building the future, one commit at a time 🚀
-open_to     : Collaborations on React · .NET · AI/LLM integrations
+open_to     : Collaborations mode on 
 ```
 
 </td>
