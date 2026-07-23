@@ -245,11 +245,11 @@ $ cat current.log
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrTONYCHAN&theme=radical" width="98%" alt="profile summary"/>
 
-</div>
+</div> -->
 
 ---
 
