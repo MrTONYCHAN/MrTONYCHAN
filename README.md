@@ -253,13 +253,6 @@ $ cat current.log
 
 ---
 
-## `$ cat activity-graph.svg`
-
-<div align="center">
-
-[![Chandan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrTONYCHAN&bg_color=141321&color=F52C67&line=F52C67&point=FFFFFF&area_color=F52C671A&area=true&hide_border=true&custom_title=Chandan%27s%20Contribution%20Graph)](https://github.com/MrTONYCHAN)
-
-</div>
 
 
 
