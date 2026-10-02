@@ -6,6 +6,8 @@
 
 <img src="./avi-ascii.svg" width="100%" alt="Chandan Kumar — ASCII portrait" />
 
+<img src="./linux-terminal.svg" width="100%" alt="Looping Linux terminal — coding, testing and deploying" />
+
 </td>
 <td width="52%" valign="top" align="left">
 
