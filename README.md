@@ -53,7 +53,7 @@ $ cat current.log
 </td>
 <td width="45%" valign="center">
 
-<img src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="coding gif" />
+<img src="./dino-autoplay.svg" width="100%" alt="Autoplay dot-matrix dinosaur — AI pilot online" />
 
 </td>
 </tr>
