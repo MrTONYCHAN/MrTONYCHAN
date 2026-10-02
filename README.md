@@ -21,6 +21,8 @@ status      : Building the future, one commit at a time 🚀
 open_to     : Collaborations mode on
 ```
 
+<img src="./dino-autoplay.svg" width="100%" alt="Autoplay dot-matrix dinosaur — AI pilot online" />
+
 </td>
 </tr>
 </table>
@@ -53,7 +55,7 @@ $ cat current.log
 </td>
 <td width="45%" valign="center">
 
-<img src="./dino-autoplay.svg" width="100%" alt="Autoplay dot-matrix dinosaur — AI pilot online" />
+<img src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="coding gif" />
 
 </td>
 </tr>
