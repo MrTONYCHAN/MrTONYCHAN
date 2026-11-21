@@ -12,8 +12,6 @@ I build web and mobile applications and integrate LLMs and agentic workflows int
 
 - Building scalable web, mobile, and AI-powered products
 - Working on LLM and agent-based features: tool use, orchestration, evaluation
-- [Project name]: one line on what it does and your role
-- [Project name]: one line on what it does and your role
 
 ## Open source
 
