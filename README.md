@@ -27,6 +27,3 @@ I contribute to open-source projects and am open to collaborating on AI tooling 
 | Backend and data | .NET, PostgreSQL, MongoDB |
 | Infrastructure | AWS, Docker |
 
-## Contact
-
-Open an issue or reach out through the links on my profile. Happy to talk about Python, TypeScript, system design, or AI integration.
